@@ -3,9 +3,9 @@ body {
   text-align: center;
 }
 
-.navigation-links {
-  display: flex;
-  justify-content: space-evenly;
+a {
+  color: green;
+  margin: 0 10px;
 }
 
 img {
